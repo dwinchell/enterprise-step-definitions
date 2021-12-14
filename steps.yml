@@ -1,4 +1,4 @@
 security:
-    step-implementer: fortify
+    step-implementer: veracode
       config:
-        url: my-fortify.example.com
+        url: my-veracode.example.com
