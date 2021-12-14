@@ -1,0 +1,4 @@
+security:
+    step-implementer: fortify
+      config:
+        url: my-fortify.example.com
